@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>Bluloco Dark</string>
 	<key>semanticClass</key>
-	<string>theme.dark.base16_bluloco_dark</string>
+	<string>theme.dark.bluloco_dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -187,7 +187,7 @@ constant.language</string>
 			<string>Strings, Inherited Class</string>
 			<key>scope</key>
 			<string>string, constant.other.symbol, punctuation.definition.string,
-support.constant.property-value, variable.parameter.url</string>
+support.constant.property-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -603,6 +603,15 @@ meta.object.member, support.type.property-name, entity.name.tag.yaml</string>
 			<dict>
 				<key>foreground</key>
 				<string>#3FC56B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable Parameter</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
 			</dict>
 		</dict>
 	</array>
