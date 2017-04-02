@@ -2,7 +2,7 @@
   "name": "theme-bluloco-dark",
   "displayName": "bluloco-dark",
   "description": "A fancy but yet sophisticated dark designer color scheme.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "uloco",
   "engines": {
     "vscode": "^1.10.0"
