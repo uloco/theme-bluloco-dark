@@ -35,7 +35,7 @@
 				<key>background</key>
 				<string>#282c34</string>
 				<key>caret</key>
-				<string>#abb2bf</string>
+				<string>#FFCC00</string>
 				<key>foreground</key>
 				<string>#abb2bf</string>
 				<key>invisibles</key>
@@ -61,7 +61,7 @@
 			<key>name</key>
 			<string>Comments</string>
 			<key>scope</key>
-			<string>comment, punctuation.definition.comment</string>
+			<string>comment, punctuation.definition.comment, string.comment</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -73,7 +73,7 @@
 			<string>Punctuation</string>
 			<key>scope</key>
 			<string>punctuation.definition.variable, punctuation.definition.parameters, punctuation.definition.array, punctuation.definition.function, meta.brace, punctuation.terminator.statement, meta.delimiter.object.comma, punctuation.definition.entity, punctuation.definition,
-punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown</string>
+punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.separator.key-value, punctuation.separator.dictionary, punctuation.terminator</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -198,11 +198,11 @@ constant.language</string>
 			<string>Strings, Inherited Class</string>
 			<key>scope</key>
 			<string>string, constant.other.symbol, punctuation.definition.string,
-support.constant.property-value</string>
+support.constant.property-value, string.quoted.double.shell</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f9c859</string>
+				<string>#F9C859</string>
 			</dict>
 		</dict>
 		<dict>
@@ -297,7 +297,7 @@ support.constant.property-value</string>
 			<key>name</key>
 			<string>Headings</string>
 			<key>scope</key>
-			<string>markup.heading punctuation.definition.heading, entity.name.section, markup.heading.setext</string>
+			<string>markup.heading, punctuation.definition.heading, entity.name.section, markup.heading.setext</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -327,7 +327,7 @@ support.constant.property-value</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#ff6480</string>
+				<string>#FF6480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -404,7 +404,7 @@ support.constant.property-value</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#3e4451</string>
+				<string>#3E4451</string>
 				<key>foreground</key>
 				<string>#abb2bf</string>
 			</dict>
@@ -417,7 +417,7 @@ support.constant.property-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f9c859</string>
+				<string>#3FC56B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -428,7 +428,7 @@ support.constant.property-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3691ff</string>
+				<string>#FF6480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -490,52 +490,13 @@ support.constant.property-value</string>
 			<key>name</key>
 			<string>Illegal</string>
 			<key>scope</key>
-			<string>invalid.illegal</string>
+			<string>invalid</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#3691ff</string>
 				<key>foreground</key>
-				<string>#c8ccd4</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Broken</string>
-			<key>scope</key>
-			<string>invalid.broken</string>
-			<key>settings</key>
-			<dict>
+				<string>#FC2F52</string>
 				<key>background</key>
-				<string>#ff78f8</string>
-				<key>foreground</key>
-				<string>#282c34</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Deprecated</string>
-			<key>scope</key>
-			<string>invalid.deprecated</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#7a82da</string>
-				<key>foreground</key>
-				<string>#c8ccd4</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Unimplemented</string>
-			<key>scope</key>
-			<string>invalid.unimplemented</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#545862</string>
-				<key>foreground</key>
-				<string>#c8ccd4</string>
+				<string>#3E4451</string>
 			</dict>
 		</dict>
 		<dict>
@@ -587,7 +548,7 @@ support.constant.property-value</string>
 			<string>Object Properties</string>
 			<key>scope</key>
 			<string>meta.object-literal.key, 
-meta.object.member, support.type.property-name, entity.name.tag.yaml</string>
+meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.other.key</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -623,6 +584,50 @@ meta.object.member, support.type.property-name, entity.name.tag.yaml</string>
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Type Primitive</string>
+			<key>scope</key>
+			<string>support.type.primitive</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#10B1FE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BASH: Command Substitution</string>
+			<key>scope</key>
+			<string>string.interpolated.dollar.shell</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF6480</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BASH: Math Operation</string>
+			<key>scope</key>
+			<string>string.other.math.shell</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3691FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BASH: Substitution</string>
+			<key>scope</key>
+			<string>punctuation.definition.string.begin.shell, punctuation.definition.string.end.shell</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7A82DA</string>
 			</dict>
 		</dict>
 	</array>
