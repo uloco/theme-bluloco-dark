@@ -73,7 +73,10 @@
 			<string>Punctuation</string>
 			<key>scope</key>
 			<string>punctuation.definition.variable, punctuation.definition.parameters, punctuation.definition.array, punctuation.definition.function, meta.brace, punctuation.terminator.statement, meta.delimiter.object.comma, punctuation.definition.entity, punctuation.definition,
-punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.separator.key-value, punctuation.separator.dictionary, punctuation.terminator</string>
+punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.separator.key-value, punctuation.separator.dictionary, punctuation.terminator, meta.delimiter.comma, punctuation.separator.comma,
+punctuation.accessor,
+punctuation.separator.array,
+punctuation.section.property-list.begin.bracket.curly, punctuation.section.property-list.end.bracket.curly, punctuation.separator.statement</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -548,7 +551,9 @@ support.constant.property-value, string.quoted.double.shell</string>
 			<string>Object Properties</string>
 			<key>scope</key>
 			<string>meta.object-literal.key, 
-meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.other.key</string>
+meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.other.key,
+constant.other.object.key.js,
+string.unquoted.label.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
