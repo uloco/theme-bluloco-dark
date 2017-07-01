@@ -1,23 +1,23 @@
 {
-	"name": "theme-bluloco-dark",
-	"displayName": "bluloco-dark",
-	"description": "A fancy but yet sophisticated dark designer color scheme.",
-	"version": "1.2.1",
-	"publisher": "uloco",
-	"icon": "icon.png",
-	"engines": {
-		"vscode": "^1.10.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Bluloco Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/bluloco-dark-color-theme.json"
-			}
-		]
-	}
+  "name": "theme-bluloco-dark",
+  "displayName": "bluloco-dark",
+  "description": "A fancy but yet sophisticated dark designer color scheme.",
+  "version": "1.2.1",
+  "publisher": "uloco",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.10.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bluloco Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bluloco-dark-color-theme.json"
+      }
+    ]
+  }
 }
