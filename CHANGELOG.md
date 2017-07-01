@@ -15,6 +15,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Fix Javascript object property key color
 - Fix punctuations
 
-[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...HEAD
+[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
