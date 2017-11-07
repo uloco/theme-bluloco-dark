@@ -28,4 +28,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
-[2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.1...v2.0.2
+[2.0.2]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.1...v2.0.2
