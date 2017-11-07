@@ -4,6 +4,7 @@
     "focusBorder": "#3691ff",
     "editor.background": "#282c34",
     "editorCursor.foreground": "#ffcc00",
+    "editorCursor.background": "#282c34",
     "editor.foreground": "#abb2bf",
     "editor.lineHighlightBackground": "#2D333D",
     "editor.selectionBackground": "#3F4451",
