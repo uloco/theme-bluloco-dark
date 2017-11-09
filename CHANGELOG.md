@@ -6,6 +6,12 @@
 ### Added
 - git status file color support
 
+### Fixed
+- block comment colors
+
+### Known Issue
+- php doctype variable not changeable
+
 ## [2.0.2] - 2017-11-07
 ### Fixed
 - block cursor foreground color
