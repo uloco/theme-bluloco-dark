@@ -2,3 +2,4 @@
 .vscode/
 .vsixmanifest
 node_modules/
+*.swp
