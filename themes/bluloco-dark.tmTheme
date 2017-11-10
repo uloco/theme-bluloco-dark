@@ -61,7 +61,7 @@
         <key>name</key>
         <string>Comments</string>
         <key>scope</key>
-        <string>comment, punctuation.definition.comment, string.comment, comment.block.documentation, comment.block.documentation variable, comment.block.documentation punctuation.definition, keyword.other.documentation, storage.type.class.jsdoc, comment.block, comment.block variable.parameter, keyword.other.phpdoc</string>
+        <string>comment, punctuation.definition.comment, string.comment, comment.block.documentation, comment.block.documentation variable, comment.block.documentation punctuation.definition, keyword.other.documentation, storage.type.class.jsdoc, comment.block, comment.block variable.parameter, keyword.other.phpdoc, comment.block.documentation entity.name.type</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
