@@ -72,7 +72,7 @@
         <key>name</key>
         <string>Punctuation</string>
         <key>scope</key>
-        <string>punctuation.definition.variable, punctuation.definition.parameters, punctuation.definition.array, punctuation.definition.function, meta.brace, punctuation.terminator.statement, meta.delimiter.object.comma, punctuation.definition.entity, punctuation.definition,punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.separator.key-value, punctuation.separator.dictionary, punctuation.terminator, meta.delimiter.comma, punctuation.separator.comma,punctuation.accessor,punctuation.separator.array,punctuation.section.property-list.begin.bracket.curly, punctuation.section.property-list.end.bracket.curly, punctuation.separator.statement, comment.block.documentation entity.name.type</string>
+        <string>punctuation.definition.variable, punctuation.definition.parameters, punctuation.definition.array, punctuation.definition.function, meta.brace, punctuation.terminator.statement, meta.delimiter.object.comma, punctuation.definition.entity, punctuation.definition,punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.separator.key-value, punctuation.separator.dictionary, punctuation.terminator, meta.delimiter.comma, punctuation.separator.comma,punctuation.accessor,punctuation.separator.array,punctuation.section.property-list.begin.bracket.curly, punctuation.section.property-list.end.bracket.curly, punctuation.separator.statement</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
