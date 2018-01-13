@@ -122,10 +122,10 @@
     "welcomePage.buttonHoverBackground": "#3a3e68",
     "walkThrough.embeddedEditorBackground": "#22252a",
     "gitDecoration.modifiedResourceForeground": "#199ffd",
-    "gitDecoration.deletedResourceForeground": "#fc4a6d",
+    "gitDecoration.deletedResourceForeground": "#ce9887",
     "gitDecoration.untrackedResourceForeground": "#37bd58",
     "gitDecoration.ignoredResourceForeground": "#71798a",
-    "gitDecoration.conflictingResourceForeground": "#fc58f6"
+    "gitDecoration.conflictingResourceForeground": "#fc4a6d"
   },
   "name": "Bluloco Dark"
 }
