@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [2.2.0] - 2018-01-13
+### Added
+- added improved elixir support
+
 ## [2.1.4] - 2017-11-10
 ### Fixed
 - increase diff background opacity for highlighting support
@@ -39,7 +43,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.1.4...HEAD
+[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.2.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -47,3 +51,4 @@
 [2.1.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.2...v2.1.0
 [2.1.2]: https://github.com/uloco/theme-bluloco-dark/compare/v2.1.0...v2.1.2
 [2.1.4]: https://github.com/uloco/theme-bluloco-dark/compare/v2.1.2...v2.1.4
+[2.2.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.1.4...v2.2.0
