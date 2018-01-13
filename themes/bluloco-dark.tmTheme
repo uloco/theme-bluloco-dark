@@ -101,7 +101,9 @@
           punctuation.separator.object.elixir,
           punctuation.section.embedded.elixir,
           punctuation.section.function.elixir,
-          punctuation.section.scope.elixir
+          punctuation.section.scope.elixir,
+          meta.brace.round,
+          meta.brace.square
         </string>
         <key>settings</key>
         <dict>
