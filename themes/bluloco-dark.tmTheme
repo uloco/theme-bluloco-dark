@@ -50,7 +50,10 @@
         <key>name</key>
         <string>Text</string>
         <key>scope</key>
-        <string>variable.parameter.function</string>
+        <string>
+          variable.parameter.function,
+          comment.unused.elixir
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -72,7 +75,34 @@
         <key>name</key>
         <string>Punctuation</string>
         <key>scope</key>
-        <string>punctuation.definition.variable, punctuation.definition.parameters, punctuation.definition.array, punctuation.definition.function, meta.brace, punctuation.terminator.statement, meta.delimiter.object.comma, punctuation.definition.entity, punctuation.definition,punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.separator.key-value, punctuation.separator.dictionary, punctuation.terminator, meta.delimiter.comma, punctuation.separator.comma,punctuation.accessor,punctuation.separator.array,punctuation.section.property-list.begin.bracket.curly, punctuation.section.property-list.end.bracket.curly, punctuation.separator.statement</string>
+        <string>
+          punctuation.definition.variable,
+          punctuation.definition.parameters,
+          punctuation.definition.array,
+          punctuation.definition.function,
+          punctuation.brace,
+          punctuation.terminator.statement,
+          punctuation.delimiter.object.comma,
+          punctuation.definition.entity,
+          punctuation.definition,
+          punctuation.definition.string.begin.markdown,
+          punctuation.definition.string.end.markdown,
+          punctuation.separator.key-value,
+          punctuation.separator.dictionary,
+          punctuation.terminator,
+          punctuation.delimiter.comma,
+          punctuation.separator.comma,
+          punctuation.accessor,
+          punctuation.separator.array,
+          punctuation.section.property-list.begin.bracket.curly,
+          punctuation.section.property-list.end.bracket.curly,
+          punctuation.separator.statement,
+          punctuation.section.array.elixir,
+          punctuation.separator.object.elixir,
+          punctuation.section.embedded.elixir,
+          punctuation.section.function.elixir,
+          punctuation.section.scope.elixir
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -105,7 +135,7 @@
         <key>name</key>
         <string>Keywords</string>
         <key>scope</key>
-        <string>keyword, variable.language</string>
+        <string>keyword, variable.language, keyword.other.special-method.elixir</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -127,7 +157,7 @@
         <key>name</key>
         <string>Variables</string>
         <key>scope</key>
-        <string>variable</string>
+        <string>variable, source.elixir.embedded.source</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -149,7 +179,16 @@
         <key>name</key>
         <string>Classes</string>
         <key>scope</key>
-        <string>support.class, entity.name.class, entity.name.type.class,meta.class.instance,meta.class.inheritance, entity.other.inherited-class, entity.name.type</string>
+        <string>
+          support.class,
+          entity.name.class,
+          entity.name.type.class,
+          meta.class.instance,
+          meta.class.inheritance,
+          entity.other.inherited-class,
+          entity.name.type,
+          variable.other.constant.elixir
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -193,7 +232,7 @@
         <key>name</key>
         <string>Strings, Inherited Class</string>
         <key>scope</key>
-        <string>string, constant.other.symbol, punctuation.definition.string,support.constant.property-value, string.quoted.double.shell</string>
+        <string>string, constant.other.symbol, punctuation.definition.string,support.constant.property-value, string.quoted.double.shell, support.function.variable.quoted.single.elixir</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -204,7 +243,7 @@
         <key>name</key>
         <string>Integers</string>
         <key>scope</key>
-        <string>constant.numeric</string>
+        <string>constant.numeric, variable.other.anonymous.elixir</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -237,7 +276,11 @@
         <key>name</key>
         <string>Constants</string>
         <key>scope</key>
-        <string>constant</string>
+        <string>
+          constant,
+          string.regexp.interpolated.elixir,
+          string.regexp.literal.elixir
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -378,6 +421,22 @@
         <dict>
           <key>foreground</key>
           <string>#CE9887</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Template</string>
+        <key>scope</key>
+        <string>
+          string.quoted.double.interpolated.elixir,
+          punctuation.section.list.begin.elixir,
+          punctuation.section.regexp.begin.elixir,
+          string.quoted.double.literal.elixir
+        </string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#4483AA</string>
         </dict>
       </dict>
       <dict>
@@ -542,7 +601,7 @@
         <key>name</key>
         <string>Object Properties</string>
         <key>scope</key>
-        <string>meta.object-literal.key, meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.other.key,constant.other.object.key.js,string.unquoted.label.js</string>
+        <string>meta.object-literal.key, meta.object.member, support.type.property-name, entity.name.tag.yaml, constant.other.key,constant.other.object.key.js,string.unquoted.label.js,constant.other.symbol.elixir,punctuation.definition.constant.elixir</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
