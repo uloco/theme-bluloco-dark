@@ -4,6 +4,10 @@
   "description": "A fancy but yet sophisticated dark designer color scheme.",
   "version": "2.2.1",
   "publisher": "uloco",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uloco/theme-bluloco-dark.git"
+  },
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.10.0"
@@ -12,12 +16,10 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [
-      {
-        "label": "Bluloco Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/bluloco-dark-color-theme.json"
-      }
-    ]
+    "themes": [{
+      "label": "Bluloco Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/bluloco-dark-color-theme.json"
+    }]
   }
 }
