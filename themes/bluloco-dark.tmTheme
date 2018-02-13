@@ -115,6 +115,7 @@
           punctuation.section.embedded.elixir,
           punctuation.section.function.elixir,
           punctuation.section.scope.elixir,
+          punctuation.separator.parameter,
           meta.brace.round,
           meta.brace.square
         </string>
