@@ -51,7 +51,6 @@
         <string>Text</string>
         <key>scope</key>
         <string>
-          variable.parameter.function,
           comment.unused.elixir
         </string>
         <key>settings</key>
@@ -107,6 +106,7 @@
           punctuation.separator.comma,
           punctuation.accessor,
           punctuation.separator.array,
+          punctuation.section,
           punctuation.section.property-list.begin.bracket.curly,
           punctuation.section.property-list.end.bracket.curly,
           punctuation.separator.statement,
@@ -671,6 +671,7 @@
           support.variable.property,
           variable.object.property,
           support.type.property-name,
+          meta.property-name,
           entity.name.tag.yaml,
           constant.other.key,
           constant.other.object.key.js,
@@ -714,7 +715,10 @@
         <key>name</key>
         <string>Variable Parameter</string>
         <key>scope</key>
-        <string>variable.parameter</string>
+        <string>
+          variable.parameter,
+          parameter.variable.function.elixir 
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
