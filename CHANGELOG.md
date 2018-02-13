@@ -2,6 +2,15 @@
 
 ## [Unreleased]
 
+## [2.3.0] - 2018-02-13
+### Added
+- adjust file explorer colors for errors, warnings and infos
+- colorize javascript/typescript properties successfully (with the new grammar)
+- colorize function parameters in more languages
+
+### Fixed
+- punctuation colors in parameters
+
 ## [2.2.1] - 2018-01-13
 ### Fixed
 - fixed wrong brace and bracket colors
@@ -56,7 +65,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.2.1...HEAD
+[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.3.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -67,3 +76,4 @@
 [2.1.5]: https://github.com/uloco/theme-bluloco-dark/compare/v2.1.4...v2.1.5
 [2.2.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.1.5...v2.2.0
 [2.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.2.0...v2.2.1
+[2.3.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.2.1...v2.3.0
