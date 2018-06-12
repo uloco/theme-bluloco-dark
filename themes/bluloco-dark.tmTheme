@@ -154,6 +154,7 @@
         <key>scope</key>
         <string>
           keyword,
+          keyword.operator.expression,
           variable.language,
           keyword.other.special-method.elixir
         </string>
@@ -775,3 +776,4 @@
     <string>uuid</string>
   </dict>
 </plist>
+
