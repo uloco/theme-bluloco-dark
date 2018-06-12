@@ -117,7 +117,8 @@
           punctuation.section.scope.elixir,
           punctuation.separator.parameter,
           meta.brace.round,
-          meta.brace.square
+          meta.brace.square,
+          constant.name.attribute.tag.pug
         </string>
         <key>settings</key>
         <dict>
