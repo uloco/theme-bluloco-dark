@@ -2,6 +2,24 @@
 
 ## [Unreleased]
 
+## [2.4.0] - 2018-06-19
+### Added
+Add editor info and hint colors for squigglies
+Add notification center styling
+Add active indent guide color
+Improve tab colors
+Add active line number color
+
+### Modified
+Modify comment color to make it more readable
+Adjust panel border color
+Improve serach color
+
+### Fixed
+Fix keyword operator expression color
+Fix pug brace color
+Fix list error colors
+
 ## [2.3.0] - 2018-02-13
 ### Added
 - adjust file explorer colors for errors, warnings and infos
@@ -65,7 +83,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.3.0...HEAD
+[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.4.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -77,3 +95,4 @@
 [2.2.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.1.5...v2.2.0
 [2.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.2.0...v2.2.1
 [2.3.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.2.1...v2.3.0
+[2.4.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.3.1...v2.4.0
