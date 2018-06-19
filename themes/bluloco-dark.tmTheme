@@ -80,7 +80,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#545862</string>
+          <string>#636d83</string>
         </dict>
       </dict>
       <dict>
@@ -776,4 +776,3 @@
     <string>uuid</string>
   </dict>
 </plist>
-
