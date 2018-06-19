@@ -141,7 +141,8 @@
     "list.errorForeground": "#ff2e3f",
     "editorWarning.foreground": "#da7a43",
     "list.warningForeground": "#da7a43",
-    "editorInfo.foreground": "#f9c859",
+    "editorInfo.foreground": "#3691ff",
+    "editorHint.foreground": "#636d83",
     "editorGroup.border": "#3d434f"
   },
   "name": "Bluloco Dark"
