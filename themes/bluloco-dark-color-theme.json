@@ -138,7 +138,9 @@
     "gitDecoration.ignoredResourceForeground": "#71798a",
     "gitDecoration.conflictingResourceForeground": "#fc4a6d",
     "editorError.foreground": "#ff2e3f",
+    "list.errorForeground": "#ff2e3f",
     "editorWarning.foreground": "#da7a43",
+    "list.warningForeground": "#da7a43",
     "editorInfo.foreground": "#f9c859",
     "editorGroup.border": "#3d434f"
   },
