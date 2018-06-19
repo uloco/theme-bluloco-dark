@@ -89,7 +89,7 @@
     "peekViewTitle.background": "#22252a",
     "peekViewTitleLabel.foreground": "#abb2bf",
     "peekViewTitleDescription.foreground": "#636d83",
-    "panel.border": "#636d83",
+    "panel.border": "#3d434f",
     "panelTitle.activeBorder": "#3691ff",
     "panelTitle.activeForeground": "#abb2c0",
     "panelTitle.inactiveForeground": "#797f8c",
@@ -139,7 +139,8 @@
     "gitDecoration.conflictingResourceForeground": "#fc4a6d",
     "editorError.foreground": "#ff2e3f",
     "editorWarning.foreground": "#da7a43",
-    "editorInfo.foreground": "#f9c859"
+    "editorInfo.foreground": "#f9c859",
+    "editorGroup.border": "#3d434f"
   },
   "name": "Bluloco Dark"
 }
