@@ -9,6 +9,7 @@
     "editor.lineHighlightBackground": "#2d333d",
     "editor.selectionBackground": "#3d577777",
     "editorLineNumber.foreground": "#636d83",
+    "editorLineNumber.activeForeground": "#ffcc00",
     "button.background": "#2b72c9",
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#3691ff",
