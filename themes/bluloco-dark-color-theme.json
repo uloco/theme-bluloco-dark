@@ -58,8 +58,9 @@
     "editor.selectionHighlightBackground": "#333740",
     "editor.wordHighlightBackground": "#3b4b5f",
     "editor.wordHighlightStrongBackground": "#642856",
-    "editor.findMatchBackground": "#1778494d",
-    "editor.findMatchHighlightBackground": "#1778494d",
+    "editor.findMatchBorder": "#ffcc00",
+    "editor.findMatchBackground": "#177849b2",
+    "editor.findMatchHighlightBackground": "#177849b2",
     "editor.hoverHighlightBackground": "#2e3b4b",
     "editorLink.activeForeground": "#ffcc00",
     "editorWhitespace.foreground": "#3d434f",
@@ -143,8 +144,7 @@
     "list.warningForeground": "#da7a43",
     "editorInfo.foreground": "#3691ff",
     "editorHint.foreground": "#636d83",
-    "editorGroup.border": "#3d434f",
-    "editor.findMatchBorder": "#177849"
+    "editorGroup.border": "#3d434f"
   },
   "name": "Bluloco Dark"
 }
