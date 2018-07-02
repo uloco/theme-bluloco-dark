@@ -2,6 +2,17 @@
 
 ## [Unreleased]
 
+## [2.5.0] - 2018-07-02
+### Add
+- Add text files support
+
+### Modified
+- Improve matching bracket highlighting
+
+### Fixed
+- Fix link colors
+- Fix border colors 
+
 ## [2.4.1] - 2018-06-22
 ### Fixed
 - Fix search boarder and highlighting to match cursor color
@@ -87,7 +98,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.4.1...HEAD
+[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.5.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -99,5 +110,6 @@
 [2.2.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.1.5...v2.2.0
 [2.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.2.0...v2.2.1
 [2.3.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.2.1...v2.3.0
-[2.4.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.3.1...v2.4.0
+[2.4.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.3.0...v2.4.0
 [2.4.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.4.0...v2.4.1
+[2.4.2]: https://github.com/uloco/theme-bluloco-dark/compare/v2.4.1...v2.5.0
