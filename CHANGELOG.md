@@ -112,4 +112,4 @@
 [2.3.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.2.1...v2.3.0
 [2.4.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.3.0...v2.4.0
 [2.4.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.4.0...v2.4.1
-[2.4.2]: https://github.com/uloco/theme-bluloco-dark/compare/v2.4.1...v2.5.0
+[2.5.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.4.1...v2.5.0
