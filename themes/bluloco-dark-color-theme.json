@@ -156,6 +156,13 @@
     "textSeparator.foreground": "#3d434f",
     "editorPane.background": "#25272d",
     "editorCodeLens.foreground": "#636d83",
+    "gitlens.gutterBackgroundColor": "#ffffff11",
+    "gitlens.gutterForegroundColor": "#abb2bf",
+    "gitlens.gutterUncommittedForegroundColor": "#199ffd",
+    "gitlens.lineHighlightBackgroundColor": "#3a3e68",
+    "gitlens.lineHighlightOverviewRulerColor": "#3a3e68",
+    "gitlens.trailingLineBackgroundColor": "#3a3e68a9",
+    "gitlens.trailingLineForegroundColor": "#636d83"
   },
   "name": "Bluloco Dark"
 }
