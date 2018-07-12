@@ -164,7 +164,15 @@
     "gitlens.lineHighlightBackgroundColor": "#3a3e68",
     "gitlens.lineHighlightOverviewRulerColor": "#3a3e68",
     "gitlens.trailingLineBackgroundColor": "#3a3e68a9",
-    "gitlens.trailingLineForegroundColor": "#636d83"
+    "editorOverviewRuler.addedForeground": "#237236",
+    "editorOverviewRuler.deletedForeground": "#8c3c3c",
+    "editorOverviewRuler.errorForeground": "#ff2e3f",
+    "editorOverviewRuler.findMatchForeground": "#177849b2",
+    "editorOverviewRuler.infoForeground": "#3691ff",
+    "editorOverviewRuler.modifiedForeground": "#015f88",
+    "editorOverviewRuler.selectionHighlightForeground": "#3d577777",
+    "editorOverviewRuler.warningForeground": "#da7a43",
+    "editorOverviewRuler.wordHighlightForeground": "#ff0000",
   },
   "name": "Bluloco Dark"
 }
