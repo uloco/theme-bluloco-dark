@@ -32,6 +32,8 @@
     "scrollbarSlider.hoverBackground": "#636d8399",
     "scrollbarSlider.background": "#58607499",
     "activityBar.background": "#2d333d",
+    "activityBarBadge.background": "#3691ff",
+    "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#3691ff",
     "badge.foreground": "#ffffff",
     "list.activeSelectionBackground": "#2b72c9",
