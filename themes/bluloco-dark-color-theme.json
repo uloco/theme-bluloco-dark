@@ -155,6 +155,7 @@
     "textPreformat.foreground": "#CE9887",
     "textSeparator.foreground": "#3d434f",
     "editorPane.background": "#25272d",
+    "editorCodeLens.foreground": "#636d83",
   },
   "name": "Bluloco Dark"
 }
