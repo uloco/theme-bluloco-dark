@@ -173,6 +173,10 @@
     "editorOverviewRuler.selectionHighlightForeground": "#3d577777",
     "editorOverviewRuler.warningForeground": "#da7a43",
     "editorOverviewRuler.wordHighlightForeground": "#ff0000",
+    "merge.currentContentBackground": "#97665750",
+    "merge.currentHeaderBackground": "#8f66588a",
+    "merge.incomingContentBackground": "#3690ff44",
+    "merge.incomingHeaderBackground": "#3690ff7a",
   },
   "name": "Bluloco Dark"
 }
