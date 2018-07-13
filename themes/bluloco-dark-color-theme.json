@@ -173,7 +173,7 @@
     "editorOverviewRuler.modifiedForeground": "#015f88",
     "editorOverviewRuler.selectionHighlightForeground": "#3d577777",
     "editorOverviewRuler.warningForeground": "#da7a43",
-    "editorOverviewRuler.wordHighlightForeground": "#ff0000",
+    "editorOverviewRuler.wordHighlightForeground": "#7c9dc5af",
     "errorForeground": "#ff2e3f",
     "foreground": "#abb2bf",
     "merge.currentContentBackground": "#97665750",
