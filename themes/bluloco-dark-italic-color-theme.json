@@ -1,6 +1,6 @@
 {
-  "name": "Bluloco Dark",
-  "tokenColors": "./bluloco-dark.tmTheme",
+  "name": "Bluloco Dark Italic",
+  "tokenColors": "./bluloco-dark-italic.tmTheme",
   "colors": {
     "focusBorder": "#3691ff",
     "editor.background": "#282c34",
