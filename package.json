@@ -21,6 +21,11 @@
         "label": "Bluloco Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/bluloco-dark-color-theme.json"
+      },
+      {
+        "label": "Bluloco Dark Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bluloco-dark-italic-color-theme.json"
       }
     ]
   }
