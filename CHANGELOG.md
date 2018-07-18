@@ -2,6 +2,21 @@
 
 ## [Unreleased]
 
+## [2.6.0] - 2018-07-19
+### Add
+- Add italic support
+- Add gitlens support
+- Add centered layout background
+- Add merge colors
+- Add overview ruler support
+
+### Fixed
+- Fix overviewruler wordhighlight
+- Fix activity bar badge color
+- Fix code lens color
+- Fix empty editor group color with new split layout
+- Fix text block color
+
 ## [2.5.0] - 2018-07-02
 ### Add
 - Add text files support
@@ -98,7 +113,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.5.0...HEAD
+[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -113,3 +128,4 @@
 [2.4.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.3.0...v2.4.0
 [2.4.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.4.0...v2.4.1
 [2.5.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.4.1...v2.5.0
+[2.6.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.5.0...v2.6.0
