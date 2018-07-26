@@ -489,7 +489,8 @@
         <string>No Italic</string>
         <key>scope</key>
         <string>
-          keyword.operator
+          keyword.operator,
+          keyword.other.unit
         </string>
         <key>settings</key>
         <dict>
