@@ -467,16 +467,15 @@
           variable.other.object.property,
           support.variable.property,
           variable.object.property,
-          support.type.property-name,
-          meta.property-name,
-          entity.name.tag.yaml,
           constant.other.key,
           constant.other.object.key.js,
           string.unquoted.label.js,
           constant.other.symbol.elixir,
           punctuation.definition.constant.elixir,
           storage,
-          constant.language
+          constant.language,
+          entity.name.class,
+          entity.other.attribute-name
         </string>
         <key>settings</key>
         <dict>
@@ -490,7 +489,8 @@
         <key>scope</key>
         <string>
           keyword.operator,
-          keyword.other.unit
+          keyword.other.unit,
+          support.type.property-name
         </string>
         <key>settings</key>
         <dict>
