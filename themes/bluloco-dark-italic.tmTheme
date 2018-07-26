@@ -81,8 +81,6 @@
         <dict>
           <key>foreground</key>
           <string>#636d83</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -148,8 +146,6 @@
         <dict>
           <key>foreground</key>
           <string>#7A82DA</string>
-          <key>fontStyle</key>
-          <string></string>
         </dict>
       </dict>
       <dict>
@@ -166,8 +162,6 @@
         <dict>
           <key>foreground</key>
           <string>#10B1FE</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -254,8 +248,6 @@
         <dict>
           <key>foreground</key>
           <string>#10b1fe</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -285,8 +277,6 @@
         <dict>
           <key>foreground</key>
           <string>#F9C859</string>
-          <key>fontStyle</key>
-          <string></string>
         </dict>
       </dict>
       <dict>
@@ -364,8 +354,6 @@
         <dict>
           <key>foreground</key>
           <string>#FF936A</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -377,8 +365,6 @@
         <dict>
           <key>foreground</key>
           <string>#7A82DA</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -404,8 +390,6 @@
         </string>
         <key>settings</key>
         <dict>
-          <key>fontStyle</key>
-          <string></string>
           <key>foreground</key>
           <string>#F9C859</string>
         </dict>
@@ -431,15 +415,13 @@
         </string>
         <key>settings</key>
         <dict>
-          <key>fontStyle</key>
-          <string>bold</string>
           <key>foreground</key>
           <string>#FF6480</string>
         </dict>
       </dict>
       <dict>
         <key>name</key>
-        <string>Italic</string>
+        <string>Markup Italic</string>
         <key>scope</key>
         <string>
           markup.italic,
@@ -449,8 +431,70 @@
         <dict>
           <key>foreground</key>
           <string>#FF936A</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Italic</string>
+        <key>scope</key>
+        <string>
+          markup.italic,
+          punctuation.definition.italic,
+          comment,
+          punctuation.definition.comment,
+          string.comment,
+          comment.block.documentation,
+          comment.block.documentation variable,
+          comment.block.documentation punctuation.definition,
+          keyword.other.documentation,
+          storage.type.class.jsdoc,
+          comment.block,
+          comment.block variable.parameter,
+          keyword.other.phpdoc,
+          comment.block.documentation entity.name.type,
+          keyword,
+          keyword.operator.expression,
+          keyword.operator.new,
+          variable.language,
+          keyword.other.special-method.elixir,
+          meta.selector,
+          markup.quote,
+          markup.inserted,
+          markup.deleted,
+          markup.changed,
+          meta.object-literal.key,
+          variable.other.property,
+          variable.other.object.property,
+          support.variable.property,
+          variable.object.property,
+          support.type.property-name,
+          meta.property-name,
+          entity.name.tag.yaml,
+          constant.other.key,
+          constant.other.object.key.js,
+          string.unquoted.label.js,
+          constant.other.symbol.elixir,
+          punctuation.definition.constant.elixir,
+          storage,
+          constant.language
+        </string>
+        <key>settings</key>
+        <dict>
           <key>fontStyle</key>
           <string>italic</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>No Italic</string>
+        <key>scope</key>
+        <string>
+          keyword.operator
+        </string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string></string>
         </dict>
       </dict>
       <dict>
@@ -522,8 +566,6 @@
         <dict>
           <key>foreground</key>
           <string>#9F7EFE</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -548,8 +590,6 @@
         <dict>
           <key>foreground</key>
           <string>#3FC56B</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -561,8 +601,6 @@
         <dict>
           <key>foreground</key>
           <string>#FF6480</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -574,8 +612,6 @@
         <dict>
           <key>foreground</key>
           <string>#10b1fe</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
@@ -709,8 +745,6 @@
         <dict>
           <key>foreground</key>
           <string>#CE9887</string>
-          <key>fontStyle</key>
-          <string>italic</string>
         </dict>
       </dict>
       <dict>
