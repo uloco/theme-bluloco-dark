@@ -26,6 +26,11 @@
         "label": "Bluloco Dark Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/bluloco-dark-italic-color-theme.json"
+      },
+      {
+        "label": "Bluloco Dark High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bluloco-dark-color-hc-theme.json"
       }
     ]
   }
