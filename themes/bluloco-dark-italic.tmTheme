@@ -634,7 +634,10 @@
         <key>name</key>
         <string>Escape Characters</string>
         <key>scope</key>
-        <string>constant.character.escape</string>
+        <string>
+           constant.character.escape,
+           constant.other.character-class
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -782,7 +785,10 @@
         <key>name</key>
         <string>Type Primitive</string>
         <key>scope</key>
-        <string>support.type.primitive</string>
+        <string>
+          support.type.primitive,
+          support.type.builtin
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>

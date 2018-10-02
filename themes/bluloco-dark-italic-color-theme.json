@@ -189,5 +189,9 @@
     "sideBar.dropBackground": "#3f4451",
     "terminalCursor.foreground": "#ffcc00",
     "editorGroup.focusedEmptyBorder": "#3691ff",
+    "sideBar.border": "#181a1d",
+    "breadcrumb.activeSelectionForeground": "#2D93FF",
+    "breadcrumb.focusForeground": "#abb2bf",
+    "breadcrumb.foreground": "#636d83"
   }
 }
