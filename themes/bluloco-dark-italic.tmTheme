@@ -456,22 +456,10 @@
           keyword.operator.expression,
           keyword.operator.new,
           variable.language,
-          keyword.other.special-method.elixir,
-          meta.selector,
           markup.quote,
           markup.inserted,
           markup.deleted,
           markup.changed,
-          meta.object-literal.key,
-          variable.other.property,
-          variable.other.object.property,
-          support.variable.property,
-          variable.object.property,
-          constant.other.key,
-          constant.other.object.key.js,
-          string.unquoted.label.js,
-          constant.other.symbol.elixir,
-          punctuation.definition.constant.elixir,
           storage,
           constant.language,
           entity.name.class,
@@ -490,7 +478,9 @@
         <string>
           keyword.operator,
           keyword.other.unit,
-          support.type.property-name
+          support.type.property-name,
+          keyword.other.special-method,
+          entity.name.tag
         </string>
         <key>settings</key>
         <dict>
