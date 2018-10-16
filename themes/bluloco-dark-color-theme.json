@@ -192,6 +192,13 @@
     "sideBar.border": "#181a1d",
     "breadcrumb.activeSelectionForeground": "#2D93FF",
     "breadcrumb.focusForeground": "#abb2bf",
-    "breadcrumb.foreground": "#636d83"
+    "breadcrumb.foreground": "#636d83",
+    "inputValidation.errorForeground": "#ffffff",
+    "inputValidation.warningForeground": "#ffffff",
+    "inputValidation.infoForeground": "#ffffff",
+    "editor.snippetTabstopHighlightBorder": "#636d83",
+    "editor.snippetTabstopHighlightBackground": "#636d8377",
+    "editor.snippetFinalTabstopHighlightBorder": "#636d83",
+    "editor.snippetFinalTabstopHighlightBackground": "#636d8377"
   }
 }
