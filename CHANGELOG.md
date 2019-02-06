@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [2.7.0] - 2018-02-06
+
+- Add list filtering widget support
+
 ## [2.6.5] - 2018-10-16
 
 - Fix input validation foreground
@@ -116,7 +120,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.5...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -137,3 +141,4 @@
 [2.6.3]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.2...v2.6.3
 [2.6.4]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.3...v2.6.4
 [2.6.5]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.4...v2.6.5
+[2.7.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.5...v2.7.0
