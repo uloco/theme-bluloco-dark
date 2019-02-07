@@ -2,7 +2,7 @@
 
 ## [unreleased]
 
-## [2.7.0] - 2018-02-06
+## [2.7.0] - 2019-02-06
 
 - Add list filtering widget support
 
