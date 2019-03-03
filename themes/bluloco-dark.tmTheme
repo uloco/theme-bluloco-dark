@@ -118,7 +118,8 @@
           punctuation.separator.parameter,
           meta.brace.round,
           meta.brace.square,
-          constant.name.attribute.tag.pug
+          constant.name.attribute.tag.pug,
+          punctuation.section.embedded
         </string>
         <key>settings</key>
         <dict>
@@ -181,7 +182,8 @@
         <key>scope</key>
         <string>
           variable,
-          source.elixir.embedded.source
+          source.elixir.embedded.source,
+          string source.groovy
         </string>
         <key>settings</key>
         <dict>
@@ -197,7 +199,8 @@
           entity.name.function,
           meta.require,
           support.function.any-method,
-          meta.function-call
+          meta.function-call,
+          meta.method-call
         </string>
         <key>settings</key>
         <dict>
