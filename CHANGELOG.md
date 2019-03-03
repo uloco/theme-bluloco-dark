@@ -2,6 +2,18 @@
 
 ## [unreleased]
 
+## [2.7.1] - 2019-03-03
+
+- Improve ruby highlighting
+- Fix python parenthesis
+- Fix R function
+- Fix inconsistencies with constants
+- Fix curly braces
+- Fix symbol coloring
+- Fix groovy colors
+- Fix rainbow csv colors
+- Fix list error color
+
 ## [2.7.0] - 2019-02-06
 
 - Add list filtering widget support
@@ -120,7 +132,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.1...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -142,3 +154,4 @@
 [2.6.4]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.3...v2.6.4
 [2.6.5]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.4...v2.6.5
 [2.7.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.5...v2.7.0
+[2.7.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.0...v2.7.1
