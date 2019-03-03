@@ -210,7 +210,8 @@
           meta.require,
           support.function.any-method,
           meta.function-call,
-          meta.method-call
+          meta.method-call,
+          variable.function
         </string>
         <key>settings</key>
         <dict>
@@ -284,7 +285,8 @@
           punctuation.definition.string,
           support.constant.property-value,
           string.quoted.double.shell,
-          support.function.variable.quoted.single.elixir
+          support.function.variable.quoted.single.elixir,
+          storage.type.string
         </string>
         <key>settings</key>
         <dict>
@@ -337,7 +339,8 @@
           variable.other.constant,
           constant.other.symbol,
           constant.language.symbol,
-          support.constant
+          support.constant,
+          support.variable.magic.python
         </string>
         <key>settings</key>
         <dict>
