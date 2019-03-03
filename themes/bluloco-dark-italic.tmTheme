@@ -276,7 +276,6 @@
         <key>scope</key>
         <string>
           string,
-          constant.other.symbol,
           punctuation.definition.string,
           support.constant.property-value,
           string.quoted.double.shell,
@@ -331,8 +330,8 @@
         <string>
           constant,
           variable.other.constant,
-          string.regexp.interpolated.elixir,
-          string.regexp.literal.elixir
+          constant.other.symbol,
+          constant.language.symbol
         </string>
         <key>settings</key>
         <dict>
@@ -545,12 +544,7 @@
         <key>name</key>
         <string>Template</string>
         <key>scope</key>
-        <string>
-          string.quoted.double.interpolated.elixir,
-          punctuation.section.list.begin.elixir,
-          punctuation.section.regexp.begin.elixir,
-          string.quoted.double.literal.elixir
-        </string>
+        <string></string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -632,11 +626,13 @@
         <key>name</key>
         <string>Regular Expressions</string>
         <key>scope</key>
-        <string>string.regexp</string>
+        <string>
+          string.regexp
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#ce9887</string>
+          <string>#f9c859</string>
         </dict>
       </dict>
       <dict>
@@ -739,11 +735,7 @@
           entity.name.tag.yaml,
           constant.other.key,
           constant.other.object.key.js,
-          string.unquoted.label.js,
-          constant.other.symbol.elixir,
-          constant.language.symbol,
-          constant.other.symbol,
-          punctuation.definition.constant.elixir
+          string.unquoted.label.js
         </string>
         <key>settings</key>
         <dict>
