@@ -118,6 +118,7 @@
           punctuation.separator.parameter,
           meta.brace.round,
           meta.brace.square,
+          meta.brace.curly,
           constant.name.attribute.tag.pug,
           punctuation.section.embedded,
           punctuation.separator.method,
