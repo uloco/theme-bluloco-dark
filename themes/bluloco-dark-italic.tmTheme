@@ -125,7 +125,9 @@
           punctuation.separator,
           punctuation.other.comma,
           punctuation.bracket,
-          keyword.control.ternar
+          keyword.control.ternary,
+          string.interpolated.pug,
+          support.function.interpolation.sass
         </string>
         <key>settings</key>
         <dict>
@@ -163,7 +165,8 @@
           keyword,
           keyword.operator.expression,
           variable.language,
-          keyword.other.special-method.elixir
+          keyword.other.special-method.elixir,
+          meta.control.flow
         </string>
         <key>settings</key>
         <dict>
@@ -227,7 +230,8 @@
           meta.class.inheritance,
           entity.other.inherited-class,
           entity.name.type,
-          variable.other.constant.elixir
+          variable.other.constant.elixir,
+          storage.type.haskell
         </string>
         <key>settings</key>
         <dict>
@@ -332,7 +336,8 @@
           constant,
           variable.other.constant,
           constant.other.symbol,
-          constant.language.symbol
+          constant.language.symbol,
+          support.constant
         </string>
         <key>settings</key>
         <dict>
@@ -611,20 +616,6 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Colors</string>
-        <key>scope</key>
-        <string>
-          constant.other.color,
-          support.constant.color
-        </string>
-        <key>settings</key>
-        <dict>
-          <key>foreground</key>
-          <string>#F9C859</string>
-        </dict>
-      </dict>
-      <dict>
-        <key>name</key>
         <string>Regular Expressions</string>
         <key>scope</key>
         <string>
@@ -678,17 +669,6 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Support Constant</string>
-        <key>scope</key>
-        <string>support.constant</string>
-        <key>settings</key>
-        <dict>
-          <key>foreground</key>
-          <string>#CE9887</string>
-        </dict>
-      </dict>
-      <dict>
-        <key>name</key>
         <string>New Operator</string>
         <key>scope</key>
         <string>keyword.operator.new</string>
@@ -736,7 +716,8 @@
           entity.name.tag.yaml,
           constant.other.key,
           constant.other.object.key.js,
-          string.unquoted.label.js
+          string.unquoted.label.js,
+          support.type.map.key
         </string>
         <key>settings</key>
         <dict>
