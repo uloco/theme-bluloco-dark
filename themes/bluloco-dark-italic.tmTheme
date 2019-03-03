@@ -119,7 +119,12 @@
           meta.brace.round,
           meta.brace.square,
           constant.name.attribute.tag.pug,
-          punctuation.section.embedded
+          punctuation.section.embedded,
+          punctuation.separator.method,
+          punctuation.separator,
+          punctuation.other.comma,
+          punctuation.bracket,
+          keyword.control.ternar
         </string>
         <key>settings</key>
         <dict>
@@ -183,7 +188,8 @@
         <string>
           variable,
           source.elixir.embedded.source,
-          string source.groovy
+          string source.groovy,
+          string meta.embedded.line.ruby
         </string>
         <key>settings</key>
         <dict>
@@ -652,7 +658,6 @@
         <string>Embedded</string>
         <key>scope</key>
         <string>
-          punctuation.section.embedded,
           variable.interpolation
         </string>
         <key>settings</key>
@@ -736,6 +741,8 @@
           constant.other.object.key.js,
           string.unquoted.label.js,
           constant.other.symbol.elixir,
+          constant.language.symbol,
+          constant.other.symbol,
           punctuation.definition.constant.elixir
         </string>
         <key>settings</key>
@@ -776,7 +783,8 @@
         <key>scope</key>
         <string>
           variable.parameter,
-          parameter.variable.function.elixir 
+          parameter.variable.function.elixir,
+          variable.other.block.ruby
         </string>
         <key>settings</key>
         <dict>
