@@ -127,7 +127,9 @@
           punctuation.bracket,
           keyword.control.ternary,
           string.interpolated.pug,
-          support.function.interpolation.sass
+          support.function.interpolation.sass,
+          punctuation.parenthesis.begin,
+          punctuation.parenthesis.end
         </string>
         <key>settings</key>
         <dict>
