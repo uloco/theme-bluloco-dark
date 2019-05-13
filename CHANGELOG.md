@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [2.8.0] - 2019-05-13
+
+- Add improved GraphQL support
+
 ## [2.7.2] - 2019-04-03
 
 - Change name from bluloco-dark to Bluloco Dark
@@ -136,7 +140,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.2...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.8.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -160,3 +164,4 @@
 [2.7.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.6.5...v2.7.0
 [2.7.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.0...v2.7.1
 [2.7.2]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.1...v2.7.2
+[2.8.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.2...v2.8.0

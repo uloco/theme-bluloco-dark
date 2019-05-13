@@ -129,7 +129,9 @@
           string.interpolated.pug,
           support.function.interpolation.sass,
           punctuation.parenthesis.begin,
-          punctuation.parenthesis.end
+          punctuation.parenthesis.end,
+          punctuation.operation.graphql,
+          punctuation.colon.graphql
         </string>
         <key>settings</key>
         <dict>
@@ -234,7 +236,9 @@
           entity.other.inherited-class,
           entity.name.type,
           variable.other.constant.elixir,
-          storage.type.haskell
+          storage.type.haskell,
+          support.type.graphql,
+          support.type.enum.graphq
         </string>
         <key>settings</key>
         <dict>
@@ -368,7 +372,10 @@
         <key>name</key>
         <string>Attribute IDs</string>
         <key>scope</key>
-        <string>entity.other.attribute-name</string>
+        <string>
+          entity.other.attribute-name,
+          string.unquoted.alias.graphql
+        </string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
@@ -722,7 +729,8 @@
           constant.other.key,
           constant.other.object.key.js,
           string.unquoted.label.js,
-          support.type.map.key
+          support.type.map.key,
+          variable.graphql
         </string>
         <key>settings</key>
         <dict>
