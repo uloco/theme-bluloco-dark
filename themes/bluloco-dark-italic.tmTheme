@@ -88,6 +88,7 @@
         <string>Punctuation</string>
         <key>scope</key>
         <string>
+          punctiation.comma.graphql,
           punctuation.definition.variable,
           punctuation.definition.parameters,
           punctuation.definition.array,
