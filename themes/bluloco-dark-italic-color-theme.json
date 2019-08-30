@@ -98,6 +98,8 @@
     "panelTitle.activeBorder": "#3691ff",
     "panelTitle.activeForeground": "#abb2c0",
     "panelTitle.inactiveForeground": "#797f8c",
+    "statusBarItem.remoteBackground": "#262a30",
+    "statusBarItem.remoteForeground": "#abb2bf",
     "statusBar.foreground": "#abb2bf",
     "statusBar.background": "#37404b",
     "statusBar.border": "#3691ff",
