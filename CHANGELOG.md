@@ -2,6 +2,15 @@
 
 ## [unreleased]
 
+## [2.9.0] - 2019-09-02
+
+- Add remote icon support for status bar
+- Fix error decorations color
+- Fix minimap find search highlight
+- Add less distracting statusbar
+- Add LICENSE
+- Fix graphql comma punctuation
+
 ## [2.8.1] - 2019-06-01
 
 - Fix scrollbar opacity too low
@@ -145,7 +154,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.8.1...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.9.0...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -171,3 +180,4 @@
 [2.7.2]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.1...v2.7.2
 [2.8.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.2...v2.8.0
 [2.8.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.8.0...v2.8.1
+[2.9.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.8.1...v2.9.0
