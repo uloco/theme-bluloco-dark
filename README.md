@@ -23,9 +23,9 @@ I tested a long range of languages, these are just a few.
 You can test them all in this repo:
 https://github.com/uloco/syntax-highlighting-samples
 
-![js](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/master/screenshots/js.png)
-![ts](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/master/screenshots/ts.png)
-![py](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/master/screenshots/py.png)
-![rb](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/master/screenshots/rb.png)
-![html](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/master/screenshots/html.png)
-![css](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/master/screenshots/css.png)
+![js](screenshots/js.png)
+![ts](screenshots/ts.png)
+![py](screenshots/py.png)
+![rb](screenshots/rb.png)
+![html](screenshots/html.png)
+![css](screenshots/css.png)
