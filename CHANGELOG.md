@@ -2,7 +2,7 @@
 
 ## [unreleased]
 
-## [2.9.1] - 2019-11-09
+## [2.9.3] - 2019-11-09
 
 - Fix activity bar active bg
 
