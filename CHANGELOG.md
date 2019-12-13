@@ -2,6 +2,11 @@
 
 ## [unreleased]
 
+## [2.9.4] - 2019-12-13
+
+- Fix foreground color broken
+- Fix indent guides inactive color
+
 ## [2.9.3] - 2019-11-09
 
 - Fix activity bar active bg
@@ -158,7 +163,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.9.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.9.4...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -185,3 +190,5 @@
 [2.8.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.7.2...v2.8.0
 [2.8.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.8.0...v2.8.1
 [2.9.0]: https://github.com/uloco/theme-bluloco-dark/compare/v2.8.1...v2.9.0
+[2.9.3]: https://github.com/uloco/theme-bluloco-dark/compare/v2.9.0...v2.9.3
+[2.9.4]: https://github.com/uloco/theme-bluloco-dark/compare/v2.9.3...v2.9.4
