@@ -511,17 +511,6 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Template</string>
-        <key>scope</key>
-        <string></string>
-        <key>settings</key>
-        <dict>
-          <key>foreground</key>
-          <string>#4483AA</string>
-        </dict>
-      </dict>
-      <dict>
-        <key>name</key>
         <string>Quotes</string>
         <key>scope</key>
         <string>markup.quote</string>
