@@ -230,19 +230,28 @@
       "scope": [
         "comment",
         "punctuation.definition.comment",
+        "comment.block.documentation punctuation.definition",
         "string.comment",
         "comment.block.documentation",
+        "comment.block"
+      ],
+      "settings": {
+        "foreground": "#636d83"
+      }
+    },
+    {
+      "name": "Doc Comment Keywords",
+      "scope": [
         "comment.block.documentation variable",
-        "comment.block.documentation punctuation.definition",
         "keyword.other.documentation",
         "storage.type.class.jsdoc",
-        "comment.block",
         "comment.block variable.parameter",
         "keyword.other.phpdoc",
         "comment.block.documentation entity.name.type"
       ],
       "settings": {
-        "foreground": "#636d83"
+        "foreground": "#7c8495",
+        "fontStyle": ""
       }
     },
     {
@@ -514,17 +523,9 @@
         "markup.italic",
         "punctuation.definition.italic",
         "comment",
-        "punctuation.definition.comment",
         "string.comment",
         "comment.block.documentation",
-        "comment.block.documentation variable",
-        "comment.block.documentation punctuation.definition",
-        "keyword.other.documentation",
-        "storage.type.class.jsdoc",
         "comment.block",
-        "comment.block variable.parameter",
-        "keyword.other.phpdoc",
-        "comment.block.documentation entity.name.type",
         "keyword",
         "keyword.operator.expression",
         "keyword.operator.new",
