@@ -247,7 +247,8 @@
         "storage.type.class.jsdoc",
         "comment.block variable.parameter",
         "keyword.other.phpdoc",
-        "comment.block.documentation entity.name.type"
+        "comment.block.documentation entity.name.type",
+        "meta.other.type.phpdoc support class"
       ],
       "settings": {
         "foreground": "#7c8495",
