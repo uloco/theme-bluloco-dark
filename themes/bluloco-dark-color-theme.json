@@ -1,5 +1,6 @@
 {
   "name": "Bluloco Dark",
+  "semanticHighlighting": true,
   "colors": {
     "focusBorder": "#3691ff",
     "editor.background": "#282c34",
