@@ -39,9 +39,15 @@ You can test them all in this repo:
 https://github.com/uloco/syntax-highlighting-samples
 
 ![js](screenshots/js.png)
+
 ![ts](screenshots/ts.png)
+
 ![py](screenshots/py.png)
+
 ![rb](screenshots/rb.png)
+
 ![php](screenshots/php.png)
+
 ![html](screenshots/html.png)
+
 ![css](screenshots/css.png)
