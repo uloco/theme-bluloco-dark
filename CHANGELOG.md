@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.1.1] - 2020-06-01
+
+Fix hover highlight not transparent
+
 ## [3.1.0] - 2020-03-30
 
 - Enable semantic highlighting
@@ -180,7 +184,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.1.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.1.1...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -213,3 +217,4 @@
 [3.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.0.0...v3.0.1
 [3.0.3]: https://github.com/uloco/theme-bluloco-dark/compare/v3.0.1...v3.0.3
 [3.1.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.0.3...v3.1.0
+[3.1.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.1.0...v3.1.1
