@@ -2,6 +2,14 @@
 
 ## [unreleased]
 
+- Add secondary button colors
+- Add input options coloring
+- Add symbol icon colors
+- Add git diff diagonal fill
+- Add symbol highlighting
+- Add stackframe highlighting
+- Add debug view and console colors
+
 ## [3.1.1] - 2020-06-01
 
 Fix hover highlight not transparent
