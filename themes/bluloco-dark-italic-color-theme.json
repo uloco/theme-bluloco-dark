@@ -225,6 +225,8 @@
     "gitDecoration.submoduleResourceForeground": "#8c62fd",
     "gitDecoration.ignoredResourceForeground": "#71798a",
     "gitDecoration.conflictingResourceForeground": "#fc4a6d",
+    "gitDecoration.stageDeletedResourceForeground": "#745b53",
+    "gitDecoration.stageModifiedResourceForeground": "#199ffd",
     "editorError.foreground": "#ff2e3f",
     "editorWarning.foreground": "#da7a43",
     "list.warningForeground": "#da7a43",
@@ -286,7 +288,8 @@
     "editor.snippetFinalTabstopHighlightBorder": "#636d83",
     "editor.snippetFinalTabstopHighlightBackground": "#636d8377",
     "listFilterWidget.background": "#177849b2",
-    "listFilterWidget.noMatchesOutline": "#ff2e3f"  },
+    "listFilterWidget.noMatchesOutline": "#ff2e3f"
+  },
   "tokenColors": [
     {
       "name": "Text",
