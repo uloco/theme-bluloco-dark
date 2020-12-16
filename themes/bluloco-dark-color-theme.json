@@ -293,7 +293,8 @@
     "editor.snippetFinalTabstopHighlightBorder": "#636d83",
     "editor.snippetFinalTabstopHighlightBackground": "#636d8377",
     "listFilterWidget.background": "#177849b2",
-    "listFilterWidget.noMatchesOutline": "#ff2e3f"
+    "listFilterWidget.noMatchesOutline": "#ff2e3f",
+    "sash.hoverBorder": "#3691ff"
   },
   "tokenColors": [
     {
