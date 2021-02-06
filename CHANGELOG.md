@@ -2,6 +2,8 @@
 
 ## [unreleased]
 
+- Improve jupyter notebook support
+
 ## [3.3.0] - 2020-12-16
 
 - Add error color backgrounds
