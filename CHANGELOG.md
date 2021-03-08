@@ -2,6 +2,11 @@
 
 ## [unreleased]
 
+## [3.3.4] 2021-03-08
+
+- Fix Screenshot links
+- Fix Changelog links
+
 ## [3.3.3] - 2021-03-05
 
 - Fix quick open list item highlight
