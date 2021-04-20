@@ -134,6 +134,7 @@
     "tab.activeBorderTop": "#3691ff",
     "tab.unfocusedActiveBorderTop": "#636d83",
     "tab.hoverBackground": "#2d333d",
+    "tab.border": "#3d434f",
     "editor.selectionHighlightBackground": "#ffffff1a",
     "editor.wordHighlightBackground": "#50749f5b",
     "editor.wordHighlightStrongBackground": "#b629954f",
