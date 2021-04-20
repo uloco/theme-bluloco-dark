@@ -2,6 +2,13 @@
 
 ## [unreleased]
 
+## [3.3.5] - 2021-04-20
+
+- Fix broken placeholder images
+- Fix tab border
+- Updates blacks and whites
+- Fix quickInputList background
+
 ## [3.3.4] 2021-03-08
 
 - Fix Screenshot links
@@ -219,7 +226,7 @@ Fix hover highlight not transparent
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.4...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.5...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -259,3 +266,4 @@ Fix hover highlight not transparent
 [3.3.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.0...v3.3.1
 [3.3.3]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.1...v3.3.3
 [3.3.4]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.3...v3.3.4
+[3.3.5]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.4...v3.3.5
