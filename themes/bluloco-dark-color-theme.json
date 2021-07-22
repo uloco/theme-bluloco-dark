@@ -491,8 +491,7 @@
         "variable.other.constant.elixir",
         "storage.type.haskell",
         "support.type.graphql",
-        "support.type.enum.graphql",
-        "variable.other.enummember"
+        "support.type.enum.graphql"
       ],
       "settings": {
         "foreground": "#ff6480"
@@ -563,7 +562,8 @@
         "constant.other.symbol",
         "constant.language.symbol",
         "support.constant",
-        "support.variable.magic.python"
+        "support.variable.magic.python",
+        "variable.other.enummember"
       ],
       "settings": {
         "foreground": "#9f7efe"
