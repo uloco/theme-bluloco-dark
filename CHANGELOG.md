@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.4.1] - 2021-07-22
+
+- Fix enummember type
+
 ## [3.4.0] - 2021-07-14
 
 - Add keybinding colors
@@ -234,7 +238,7 @@ Fix hover highlight not transparent
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.1...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -277,3 +281,4 @@ Fix hover highlight not transparent
 [3.3.5]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.4...v3.3.5
 [3.3.6]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.5...v3.3.6
 [3.4.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.6...v3.4.0
+[3.4.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.0...v3.4.1
