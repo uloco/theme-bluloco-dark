@@ -491,7 +491,8 @@
         "variable.other.constant.elixir",
         "storage.type.haskell",
         "support.type.graphql",
-        "support.type.enum.graphql"
+        "support.type.enum.graphql",
+        "variable.other.enummember"
       ],
       "settings": {
         "foreground": "#ff6480"
