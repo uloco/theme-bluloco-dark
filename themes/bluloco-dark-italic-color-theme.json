@@ -437,6 +437,7 @@
       "scope": [
         "keyword",
         "keyword.operator.expression",
+        "keyword.operator.type.asserts",
         "variable.language",
         "keyword.other.special-method.elixir",
         "meta.control.flow"
@@ -639,6 +640,7 @@
         "comment.block.documentation",
         "comment.block",
         "keyword",
+        "keyword.operator.type.asserts",
         "keyword.operator.expression",
         "keyword.operator.new",
         "variable.language",
