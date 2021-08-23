@@ -2,6 +2,11 @@
 
 ## [unreleased]
 
+## [3.4.3] - 2021-08-23
+
+- Fix TypeScript asserts keyword color
+- Decrease GitLens line highlight contrast
+
 ## [3.4.2] - 2021-07-22
 
 - Change enumMember color to const
@@ -242,7 +247,7 @@ Fix hover highlight not transparent
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.2...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.3...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -287,3 +292,4 @@ Fix hover highlight not transparent
 [3.4.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.3.6...v3.4.0
 [3.4.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.0...v3.4.1
 [3.4.2]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.1...v3.4.2
+[3.4.3]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.2...v3.4.3
