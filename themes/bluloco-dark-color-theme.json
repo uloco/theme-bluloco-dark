@@ -220,6 +220,7 @@
     "terminal.ansiBrightMagenta": "#fc58f6",
     "terminal.ansiBrightCyan": "#50acae",
     "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.tab.activeBorder": "#3691ff",
     "debugToolBar.background": "#25272d",
     "welcomePage.buttonBackground": "#22252a",
     "welcomePage.buttonHoverBackground": "#3a3e68",
