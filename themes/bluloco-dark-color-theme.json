@@ -316,6 +316,7 @@
     "notebookScrollbarSlider.activeBackground": "#c1d9ff35",
     "notebookScrollbarSlider.hoverBackground": "#c1d9ff28",
     "notebookScrollbarSlider.background": "#c1d9ff14",
+    "notebook.cellEditorBackground": "#2d313a",
     "charts.blue": "#285bff",
     "charts.green": "#3fc56b",
     "charts.orange": "#fd7e57",
