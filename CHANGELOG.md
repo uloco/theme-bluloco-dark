@@ -2,6 +2,14 @@
 
 ## [unreleased]
 
+## [3.5.0] - 2021-09-28
+
+- Add themed statusbarItem colors
+- Change prominent buttons to blue
+- Add widget statusbar color
+- Fix notebook cell editor background
+- Add terminal tab active border
+
 ## [3.4.3] - 2021-08-23
 
 - Fix TypeScript asserts keyword color
