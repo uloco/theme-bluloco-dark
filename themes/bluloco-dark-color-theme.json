@@ -295,6 +295,7 @@
     "merge.incomingContentBackground": "#3690ff44",
     "merge.incomingHeaderBackground": "#3690ff7a",
     "minimap.findMatchHighlight": "#177849b2",
+    "minimap.background": "#282C34cc",
     "pickerGroup.border": "#3d434f",
     "pickerGroup.foreground": "#3691ff",
     "progressBar.background": "#3691ff",
