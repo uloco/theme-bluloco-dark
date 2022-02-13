@@ -239,8 +239,6 @@
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.tab.activeBorder": "#3691ff",
     "debugToolBar.background": "#25272d",
-    "welcomePage.buttonBackground": "#22252a",
-    "welcomePage.buttonHoverBackground": "#3a3e68",
     "walkThrough.embeddedEditorBackground": "#22252a",
     "gitDecoration.modifiedResourceForeground": "#199ffd",
     "gitDecoration.deletedResourceForeground": "#745b53",
