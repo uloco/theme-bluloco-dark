@@ -254,6 +254,7 @@
     "terminal.ansiBrightCyan": "#50acae",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.tab.activeBorder": "#3691ff",
+    "terminal.findMatchBorder": "#ffcc00",
     "debugToolBar.background": "#25272d",
     "walkThrough.embeddedEditorBackground": "#22252a",
     "gitDecoration.modifiedResourceForeground": "#199ffd",
