@@ -265,6 +265,7 @@
     "gitDecoration.conflictingResourceForeground": "#fc4a6d",
     "gitDecoration.stageDeletedResourceForeground": "#745b53",
     "gitDecoration.stageModifiedResourceForeground": "#199ffd",
+    "gitDecoration.renamedResourceForeground": "#ff78f8",
     "list.warningForeground": "#da7a43",
     "list.errorForeground": "#ff2e3f",
     "editorError.foreground": "#ff2e3f",
