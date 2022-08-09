@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.7.1] - 2022-08-09
+
+- Fix theme not loading
+
 ## [3.7.0] - 2022-08-08
 
 - Fix editor inlay hint coloring
@@ -276,7 +280,7 @@ Fix hover highlight not transparent
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.1...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -324,4 +328,5 @@ Fix hover highlight not transparent
 [3.4.3]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.2...v3.4.3
 [3.5.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.4.3...v3.5.0
 [3.6.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.5.0...v3.6.0
-[3.6.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.6.0...v3.7.0
+[3.7.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.6.0...v3.7.0
+[3.7.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.0...v3.7.1
