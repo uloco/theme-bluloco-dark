@@ -334,6 +334,7 @@
     "tab.inactiveBackground": "#25272d",
     "tab.inactiveForeground": "#636d83",
     "tab.unfocusedActiveBorderTop": "#636d83",
+    "terminal.ansiBlack": "#42444d",
     "terminal.ansiRed": "#fc2e51",
     "terminal.ansiGreen": "#25a45c",
     "terminal.ansiYellow": "#ff9369",
