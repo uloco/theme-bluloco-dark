@@ -387,6 +387,17 @@
       }
     },
     {
+      "name": "Modules",
+      "scope": [
+        "entity.name.namespace",
+        "entity.name.module",
+        "entity.name.type.module"
+      ],
+      "settings": {
+        "foreground": "#FF839B"
+      }
+    },
+    {
       "name": "Comments",
       "scope": [
         "comment",
