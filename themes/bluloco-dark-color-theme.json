@@ -480,7 +480,8 @@
         "punctuation.parenthesis.begin",
         "punctuation.parenthesis.end",
         "punctuation.operation.graphql",
-        "punctuation.colon.graphql"
+        "punctuation.colon.graphql",
+        "constant.character.format.placeholder.other.python"
       ],
       "settings": {
         "foreground": "#7a82da"
