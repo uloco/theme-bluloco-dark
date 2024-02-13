@@ -398,6 +398,13 @@
       }
     },
     {
+      "name": "Label",
+      "scope": ["variable.other.label", "entity.name.function.decorator"],
+      "settings": {
+        "foreground": "#50acae"
+      }
+    },
+    {
       "name": "Comments",
       "scope": [
         "comment",
