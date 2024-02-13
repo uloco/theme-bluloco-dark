@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/uloco/theme-bluloco-dark.git"
   },
+  "sponsor": {
+    "url": "https://github.com/sponsors/uloco"
+  },
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.10.0"
