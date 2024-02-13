@@ -459,7 +459,9 @@
         "punctuation.parenthesis.end",
         "punctuation.operation.graphql",
         "punctuation.colon.graphql",
-        "constant.character.format.placeholder.other.python"
+        "constant.character.format.placeholder.other.python",
+        "punctuation.description",
+        "punctuation"
       ],
       "settings": {
         "foreground": "#7a82da"
@@ -487,7 +489,8 @@
         "keyword.operator.type.asserts",
         "variable.language",
         "keyword.other.special-method.elixir",
-        "meta.control.flow"
+        "meta.control.flow",
+        "meta.separator.grain"
       ],
       "settings": {
         "foreground": "#10b1fe"
@@ -876,7 +879,9 @@
         "constant.other.object.key.js",
         "string.unquoted.label.js",
         "support.type.map.key",
-        "variable.graphql"
+        "variable.graphql",
+        "entity.name.grain",
+        "entity.other.grain"
       ],
       "settings": {
         "foreground": "#ce9887"
