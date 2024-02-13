@@ -436,7 +436,8 @@
     {
       "name": "Punctuation",
       "scope": [
-        "punctuation.comma.graphql",
+        "punctuation.comma",
+        "punctuation.semi",
         "punctuation.definition.variable",
         "punctuation.definition.parameters",
         "punctuation.definition.array",
@@ -474,6 +475,7 @@
         "punctuation.separator",
         "punctuation.other.comma",
         "punctuation.bracket",
+        "punctuation.brackets",
         "keyword.control.ternary",
         "string.interpolated.pug",
         "support.function.interpolation.sass",
