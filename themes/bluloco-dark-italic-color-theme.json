@@ -288,6 +288,7 @@
     "statusBarItem.errorBackground": "#00000000",
     "statusBarItem.errorForeground": "#ff2e3f",
     "statusBarItem.hoverBackground": "#c1d9ff28",
+    "statusBarItem.compactHoverBackground": "#c1d9ff3b",
     "statusBarItem.prominentBackground": "#2b72c9",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.prominentHoverBackground": "#3691ff",
