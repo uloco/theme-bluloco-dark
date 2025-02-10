@@ -2,6 +2,16 @@
 
 ## [unreleased]
 
+## [3.7.5] - 2025-02-10
+
+- Fix hover colors in the status bar for Git and remote SSH
+- Add sponsor URL
+- Fix rust punctuation colors
+- Improve Grainlang support
+- Improve OCaml highlighting
+- Add missing source
+- Better module color
+
 ## [3.7.4] - 2023-01-03
 
 - Fix missing ANSI black, #15
@@ -292,7 +302,7 @@ Fix hover highlight not transparent
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.4...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.5...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -345,3 +355,4 @@ Fix hover highlight not transparent
 [3.7.2]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.1...v3.7.2
 [3.7.3]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.2...v3.7.3
 [3.7.4]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.3...v3.7.4
+[3.7.5]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.4...v3.7.5
