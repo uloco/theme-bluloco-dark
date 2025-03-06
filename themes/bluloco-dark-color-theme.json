@@ -376,13 +376,6 @@
 
   "tokenColors": [
     {
-      "name": "Source",
-      "scope": "source",
-      "settings": {
-        "foreground": "#abb2bf"
-      }
-    },
-    {
       "name": "Text",
       "scope": "comment.unused.elixir",
       "settings": {

@@ -383,6 +383,24 @@
       }
     },
     {
+      "name": "Modules",
+      "scope": [
+        "entity.name.namespace",
+        "entity.name.module",
+        "entity.name.type.module"
+      ],
+      "settings": {
+        "foreground": "#FF839B"
+      }
+    },
+    {
+      "name": "Label",
+      "scope": ["variable.other.label", "entity.name.function.decorator"],
+      "settings": {
+        "foreground": "#50acae"
+      }
+    },
+    {
       "name": "Comments",
       "scope": [
         "comment",
@@ -673,8 +691,8 @@
       "name": "Bold",
       "scope": ["markup.bold", "punctuation.definition.bold"],
       "settings": {
-        "foreground": "#ff6480",
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "foreground": "#ff6480"
       }
     },
     {
