@@ -5,6 +5,7 @@
 ## [3.7.6] - 2025-03-06
 
 - Fix script tag color
+- Add logo and new icon
 
 ## [3.7.5] - 2025-02-10
 

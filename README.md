@@ -1,8 +1,10 @@
-# Bluloco Dark Theme
+![banner](./banner.png)
+
+# Bluloco Dark VSCode Theme
 
 ### Description
 
-A fancy but yet sophisticated dark designer color scheme / theme for
+A fancy and sophisticated dark color scheme / theme for
 Visual Studio Code.
 
 This theme features a much more comprehensive usage of syntax scopes and color
