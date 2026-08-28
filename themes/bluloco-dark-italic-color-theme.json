@@ -1,6 +1,8 @@
 {
   "name": "Bluloco Dark Italic",
   "semanticHighlighting": true,
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
   "colors": {
     "activityBar.activeBorder": "#3691ff",
     "activityBar.background": "#2d333d",
