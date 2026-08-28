@@ -2,6 +2,15 @@
 
 ## [unreleased]
 
+- Add missing modern colors
+- Remove redundant grey values
+- Collapse near identical colors
+- Collapse near identical alpha values
+- Fix debugView label colors
+- Fix different panel and sidebar colors
+- Fix leftover light theme blues
+- Add missing schema
+
 ## [3.7.6] - 2025-03-06
 
 - Fix script tag color
