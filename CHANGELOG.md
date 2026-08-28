@@ -2,6 +2,12 @@
 
 ## [unreleased]
 
+## [3.8.1] - 2026-08-28
+
+- Fix modern UI highlights lighter on dark bg
+
+## [3.8.0] - 2026-08-28
+
 - Add missing modern colors
 - Remove redundant grey values
 - Collapse near identical colors
@@ -316,7 +322,9 @@ Fix hover highlight not transparent
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.6...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.1...HEAD
+[3.8.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.0...v3.8.1
+[3.8.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.6...v3.8.0
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
