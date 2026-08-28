@@ -2,6 +2,8 @@
 
 ## [unreleased]
 
+- Fix merge parent colors
+
 ## [3.8.1] - 2026-08-28
 
 - Fix modern UI highlights lighter on dark bg
