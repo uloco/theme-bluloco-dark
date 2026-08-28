@@ -242,6 +242,7 @@
     "notifications.border": "#3d434f",
     "notifications.foreground": "#abb2bf",
     "notificationToast.border": "#3d434f",
+    "panel.background": "#22252a",
     "panel.border": "#3d434f",
     "panelTitle.activeBorder": "#3691ff",
     "panelTitle.activeForeground": "#abb2bf",
