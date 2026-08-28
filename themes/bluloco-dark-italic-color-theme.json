@@ -371,9 +371,39 @@
     "titleBar.inactiveBackground": "#40475399",
     "titleBar.inactiveForeground": "#abb2bf99",
     "walkThrough.embeddedEditorBackground": "#22252a",
-    "widget.shadow": "#22252a"
-  },
+    "widget.shadow": "#22252a",
 
+    "surface.background": "#22252a",
+    "surface.foreground": "#abb2bf",
+    "surface.border": "#3d434f",
+    "editor.border": "#3d434f",
+
+    "modernTab.activeBackground": "#282c34",
+    "modernTab.activeForeground": "#abb2bf",
+    "modernTab.hoverBackground": "#2d333d",
+    "modernTab.hoverForeground": "#abb2bf",
+
+    "modernEditorTab.activeBackground": "#22252a",
+    "modernEditorTab.activeForeground": "#abb2bf",
+    "modernEditorTab.inactiveBackground": "#282c34",
+    "modernEditorTab.hoverBackground": "#25272d",
+    "modernEditorTab.hoverForeground": "#abb2bf",
+    "modernEditorTab.activeHoverBackground": "#20242a",
+
+    "modernActivityBar.background": "#2d333d",
+    "modernActivityBar.activeBackground": "#22252a",
+    "modernActivityBar.activeForeground": "#abb2bf",
+    "modernActivityBar.hoverBackground": "#25272d",
+    "modernActivityBar.hoverForeground": "#abb2bf",
+
+    "sideBarStickyScroll.background": "#22252a",
+    "sideBarStickyScroll.border": "#3d434f",
+    "sideBarStickyScroll.shadow": "#181a1d",
+    "panelStickyScroll.background": "#282c34",
+    "panelStickyScroll.border": "#3d434f",
+    "panelStickyScroll.shadow": "#181a1d",
+    "outputViewStickyScroll.background": "#282c34"
+  },
   "tokenColors": [
     {
       "name": "Text",
