@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/main/banner.png)
 
 # Bluloco Dark VSCode Theme
 
@@ -47,16 +47,16 @@ Here are a bunch of screenshots. I tested a long range of languages, these are j
 You can test them all in this repo:
 https://github.com/uloco/syntax-highlighting-samples
 
-![js](screenshots/js.png)
+![js](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/main/screenshots/js.png)
 
-![ts](screenshots/ts.png)
+![ts](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/main/screenshots/ts.png)
 
-![py](screenshots/py.png)
+![py](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/main/screenshots/py.png)
 
-![rb](screenshots/rb.png)
+![rb](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/main/screenshots/rb.png)
 
-![php](screenshots/php.png)
+![php](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/main/screenshots/php.png)
 
-![html](screenshots/html.png)
+![html](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/main/screenshots/html.png)
 
-![css](screenshots/css.png)
+![css](https://raw.githubusercontent.com/uloco/theme-bluloco-dark/main/screenshots/css.png)
