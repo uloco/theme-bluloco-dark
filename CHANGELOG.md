@@ -2,6 +2,12 @@
 
 ## [unreleased]
 
+## [3.8.3] - 2026-08-29
+
+- Fix readme image paths broken
+
+## [3.8.2] - 2026-08-29
+
 - Fix merge parent colors
 
 ## [3.8.1] - 2026-08-28
@@ -107,7 +113,7 @@
 - Updates blacks and whites
 - Fix quickInputList background
 
-## [3.3.4] 2021-03-08
+## [3.3.4] - 2021-03-08
 
 - Fix Screenshot links
 - Fix Changelog links
@@ -144,7 +150,7 @@
 
 ## [3.1.1] - 2020-06-01
 
-Fix hover highlight not transparent
+- Fix hover highlight not transparent
 
 ## [3.1.0] - 2020-03-30
 
@@ -324,7 +330,9 @@ Fix hover highlight not transparent
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.1...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.3...HEAD
+[3.8.3]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.2...v3.8.3
+[3.8.2]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.1...v3.8.2
 [3.8.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.0...v3.8.1
 [3.8.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.6...v3.8.0
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
