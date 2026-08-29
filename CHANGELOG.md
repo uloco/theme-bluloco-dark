@@ -2,6 +2,10 @@
 
 ## [unreleased]
 
+## [3.9.0] - 2026-08-29
+
+- Add gitlens colors
+
 ## [3.8.3] - 2026-08-29
 
 - Fix readme image paths broken
@@ -389,3 +393,8 @@
 [3.7.4]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.3...v3.7.4
 [3.7.5]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.4...v3.7.5
 [3.7.6]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.5...v3.7.6
+[3.8.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.7.6...v3.8.0
+[3.8.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.0...v3.8.1
+[3.8.2]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.1...v3.8.2
+[3.8.3]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.2...v3.8.3
+[3.9.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.3...v3.9.0
