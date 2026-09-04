@@ -249,6 +249,7 @@
     "inputOption.activeBackground": "#2b72c977",
     "inputOption.activeBorder": "#3691ff",
     "inputOption.activeForeground": "#ffffff",
+    "inputOption.hoverBackground": "#c1d9ff14",
     "inputValidation.errorBackground": "#9c1e37",
     "inputValidation.errorBorder": "#ff2e3f",
     "inputValidation.errorForeground": "#ffffff",
@@ -447,6 +448,7 @@
     "titleBar.activeForeground": "#abb2bf",
     "titleBar.inactiveBackground": "#40475399",
     "titleBar.inactiveForeground": "#abb2bf99",
+    "toolbar.hoverBackground": "#c1d9ff14",
     "walkThrough.embeddedEditorBackground": "#22252a",
     "widget.shadow": "#22252a",
 
