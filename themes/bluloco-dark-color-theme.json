@@ -439,7 +439,7 @@
     "terminalCursor.foreground": "#ffcc00",
     "textBlockQuote.background": "#3d434f",
     "textBlockQuote.border": "#3691ff",
-    "textCodeBlock.background": "#282c34",
+    "textCodeBlock.background": "#21242d",
     "textLink.activeForeground": "#3691ff",
     "textLink.foreground": "#3691ff",
     "textPreformat.foreground": "#ce9887",
