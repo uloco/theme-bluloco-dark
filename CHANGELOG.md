@@ -2,6 +2,11 @@
 
 ## [unreleased]
 
+## [3.10.1] - 2026-10-09
+
+- Fix search hover background
+- Fix markdown code block background
+
 ## [3.10.0] - 2026-08-30
 
 - Add semantic token distinctions
@@ -338,7 +343,7 @@
 - Fix Javascript object property key color
 - Fix punctuations
 
-[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.10.0...HEAD
+[unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v3.10.1...HEAD
 [1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
 [2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
 [2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
@@ -399,3 +404,4 @@
 [3.8.3]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.2...v3.8.3
 [3.9.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.8.3...v3.9.0
 [3.10.0]: https://github.com/uloco/theme-bluloco-dark/compare/v3.9.0...v3.10.0
+[3.10.1]: https://github.com/uloco/theme-bluloco-dark/compare/v3.10.0...v3.10.1
